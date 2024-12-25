@@ -12,7 +12,7 @@ namespace ProductAPI
 
             // Add services to the container.
             builder.Services.AddScoped<IProductService, ProductService>();
-            builder.Services.AddDbContext<ProductDbContext>() 
+            builder.Services.AddDbContext<ProductDbContext>();
 
 
             builder.Services.AddControllers();

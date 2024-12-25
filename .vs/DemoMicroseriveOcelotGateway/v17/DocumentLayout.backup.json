@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Dowload\\DemoMicroseriveOcelotGateway\\DemoMicroseriveOcelotGateway\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1FE06787-DC22-421D-ABF9-0BCBAD27A7F6}|ProductAPI\\ProductAPI.csproj|d:\\dowload\\demomicroseriveocelotgateway\\demomicroseriveocelotgateway\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE06787-DC22-421D-ABF9-0BCBAD27A7F6}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E7F07BA-C4C9-4EED-92A9-C2863E9ACC1F}|Gateway\\Gateway.csproj|d:\\dowload\\demomicroseriveocelotgateway\\demomicroseriveocelotgateway\\gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8E7F07BA-C4C9-4EED-92A9-C2863E9ACC1F}|Gateway\\Gateway.csproj|solutionrelative:gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -210,6 +214,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dowload\\DemoMicroseriveOcelotGateway\\DemoMicroseriveOcelotGateway\\ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Program.cs",
+              "ToolTip": "D:\\Dowload\\DemoMicroseriveOcelotGateway\\DemoMicroseriveOcelotGateway\\ProductAPI\\Program.cs",
+              "RelativeToolTip": "ProductAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:09:56.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Dowload\\DemoMicroseriveOcelotGateway\\DemoMicroseriveOcelotGateway\\Gateway\\appsettings.json",
               "RelativeDocumentMoniker": "Gateway\\appsettings.json",
@@ -222,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\karim.ho\\AppData\\Roaming\\Microsoft\\UserSecrets\\2b09b86a-8942-42f5-bee1-a90f48704852\\secrets.json",
               "ToolTip": "C:\\Users\\karim.ho\\AppData\\Roaming\\Microsoft\\UserSecrets\\2b09b86a-8942-42f5-bee1-a90f48704852\\secrets.json",
